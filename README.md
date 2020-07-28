@@ -14,9 +14,7 @@ boto3
 
 SDK python para AWS
 
-```
-Give examples
-```
+`````
 
 ### Installing
 
@@ -26,7 +24,7 @@ https://i6z4bkj3g8.execute-api.us-east-1.amazonaws.com/default/getTextFromImage
 
 ## Headers
 
-x-api-key    :   dTwAo5gnBh9etJ1J7uVca7JMPjOvL3dN9iIsrDnt
+x-api-key    :   dTwAo5gnBh9etJ1J7uVca7JMPjOvL3dN9iIs (solicitado por email)
 
 Content-Type :   application/json
 
