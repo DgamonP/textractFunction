@@ -6,6 +6,7 @@ Se implemento el servicio de Textract en una API, sobre una funcion Lambda en AW
 
 https://auxenta.com/blog_aws_textract_with_lambda_walkthrough.php
 
+
 ### Prerequisites
 
 Cuenta en AWS
