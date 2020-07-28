@@ -9,8 +9,11 @@ https://auxenta.com/blog_aws_textract_with_lambda_walkthrough.php
 ### Prerequisites
 
 Cuenta en AWS
+
 boto3
+
 SDK python para AWS
+
 ```
 Give examples
 ```
@@ -24,6 +27,7 @@ https://i6z4bkj3g8.execute-api.us-east-1.amazonaws.com/default/getTextFromImage
 ## Headers
 
 x-api-key    :   dTwAo5gnBh9etJ1J7uVca7JMPjOvL3dN9iIsrDnt
+
 Content-Type :   application/json
 
 ## Body type
